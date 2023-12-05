@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>htmx demo</title>
+  <link rel="stylesheet" href="/static/css/pico.min.css">
+  <script src="/static/js/htmx.min.js.gz"></script>
+</head>
+
+<body hx-boost="true">
+<main class="container">
+  <p><a href="/">Home</a></p>
+  <header>
+    <h1>
+      Demo
+    </h1>
+  </header>
+  {% block content %}{% endblock %}
+</main>
+</body>
+</html>

@@ -1,0 +1,25 @@
+{% extends "_layout.html" %}
+
+{% block content %}
+  <input
+      id="search" type="search" name="q"
+      placeholder="Enter title or speaker"
+      value="{{ request.args.get('q') or '' }}"
+      {# htxm specific attrs #}
+      hx-get="{{ url_for('.search') }}"
+      hx-trigger="search, keyup delay:400ms changed"
+      hx-target="#search-tbody"
+      hx-push-url="true"/>
+
+  <table>
+    <thead>
+    <tr>
+      <th scope="col">Title</th>
+      <th scope="col">Presenter</th>
+    </tr>
+    </thead>
+    <tbody id="search-tbody">
+    {% include "search/_rows.html" %}
+    </tbody>
+  </table>
+{% endblock content %}

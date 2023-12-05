@@ -1,0 +1,12 @@
+{% for talk in talks %}
+  <tr>
+    <td>{{ talk.title }}</td>
+    <td>{{ talk.presenter }}</td>
+  </tr>
+{% else %}
+  <tr>
+    <td colspan="2">
+      No relevant announcements
+    </td>
+  </tr>
+{% endfor %}

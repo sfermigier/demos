@@ -1,0 +1,194 @@
+[
+  {
+    "title": "How to use AsyncIO to make the most of a CPU Bound and IO Bound software with Python 3.7",
+    "presenter": "R\u00e9my Hubscher"
+  },
+  {
+    "title": "Porting application from Python 2.x to 3.x",
+    "presenter": "Philippe BOULANGER"
+  },
+  {
+    "title": "Unexpected Dataclasses",
+    "presenter": "Pierre Alexandre SCHEMBRI"
+  },
+  {
+    "title": "(Deep)\u00a0Machine Learned Model Deployment with ONNX",
+    "presenter": "Xavier Dupr\u00e9"
+  },
+  {
+    "title": "A Short History of Array-based Computing in Python",
+    "presenter": "Wolf Vollprecht"
+  },
+  {
+    "title": "Data Science for Industry 4.0",
+    "presenter": "Alessandro Giassi"
+  },
+  {
+    "title": "Dataviz with matplotlib and seaborn",
+    "presenter": "Francis Wolinski"
+  },
+  {
+    "title": "Exploring image processing pipelines with scikit-image, joblib, ipywidgets and dash",
+    "presenter": "Emmanuelle Gouillart"
+  },
+  {
+    "title": "GeoSpatial Data Analysis using Python",
+    "presenter": "Fereshteh ASGARI"
+  },
+  {
+    "title": "Geospatial data processing for image automatic analysis",
+    "presenter": "Rapha\u00ebl Delhome"
+  },
+  {
+    "title": "Let the AI Do the Talk: Adventures with Natural Language Generation",
+    "presenter": "Marco Bonzanini"
+  },
+  {
+    "title": "Machine learning using scikit-learn",
+    "presenter": "Guillaume Lemaitre"
+  },
+  {
+    "title": "Machine Learning with Scikit-Learn: quick clusterization of a very large malware dataset",
+    "presenter": "Robert ERRA"
+  },
+  {
+    "title": "Modern Pandas - Writing effective, readable data pipeline",
+    "presenter": "Herv\u00e9 MIGNOT"
+  },
+  {
+    "title": "Pyodide: scientific Python compiled in WebAssembly, and application",
+    "presenter": "Roman Yurchak"
+  },
+  {
+    "title": "Scikit-learn: news on making even better machine learning",
+    "presenter": "Gael Varoquaux"
+  },
+  {
+    "title": "Segmentation of 3-D materials science images : from raw data to physical measurements ",
+    "presenter": "Chloe Brillatz"
+  },
+  {
+    "title": "Understanding and diagnosing your machine-learning models",
+    "presenter": "Gael Varoquaux"
+  },
+  {
+    "title": "Using Deep Learning to rank and tag millions of hotel images",
+    "presenter": "Christopher Lennan"
+  },
+  {
+    "title": "Vaex: Out of Core Dataframes for Python",
+    "presenter": "Maarten Breddels"
+  },
+  {
+    "title": "Beat a Google Ads Bidder using ML",
+    "presenter": "Arnaud Fouchet"
+  },
+  {
+    "title": "Deep Learning with PyTorch for more Fun and Profit (Part 2.5)",
+    "presenter": "Alexander Hendorf"
+  },
+  {
+    "title": "GeoAlchemy: using SQLAlchemy with Spatial databases",
+    "presenter": "\u00c9ric Lemoine"
+  },
+  {
+    "title": "Parallel Data Analysis with Dask",
+    "presenter": "Lo\u00efc Est\u00e8ve"
+  },
+  {
+    "title": "Robosat: an Open Source and efficient Semantic Segmentation Toolbox for Aerial Imagery",
+    "presenter": "Olivier Courtin"
+  },
+  {
+    "title": "Bonobo, Airflow and Grafana to visualize your business",
+    "presenter": "Romain Dorgueil"
+  },
+  {
+    "title": "Scaling from 0 to 60k RPM",
+    "presenter": "Jean-Baptiste Aviat"
+  },
+  {
+    "title": "Girls Can Code! summer camps: an experience of teaching computer science to young girls.",
+    "presenter": "Garance Gourdel"
+  },
+  {
+    "title": "How we used Python to introduce teenagers to the fun of programming",
+    "presenter": "Anne-Marie Tousch"
+  },
+  {
+    "title": "Python @ Sorbonne Universit\u00e9",
+    "presenter": "Frederic Peschanski"
+  },
+  {
+    "title": "Interactive widgets in the Jupyter Notebook",
+    "presenter": "Martin Renou"
+  },
+  {
+    "title": "Jupytext: Edit Jupyter notebooks represented as Python scripts",
+    "presenter": "Marc Wouts"
+  },
+  {
+    "title": "Vim Your Python, Python Your Vim",
+    "presenter": "Miroslav \u0160ediv\u00fd"
+  },
+  {
+    "title": "A better way to use modern Javascript/Node.js with Django",
+    "presenter": "Romain Dorgueil"
+  },
+  {
+    "title": "Anyblok WMS Base ",
+    "presenter": "Georges Racinet"
+  },
+  {
+    "title": "Big forms with JSON schemas and transcrypt",
+    "presenter": "Philippe ENTZMANN"
+  },
+  {
+    "title": "Crossing the native code frontier",
+    "presenter": "Serge sans Paille"
+  },
+  {
+    "title": "DSL in Pyrser",
+    "presenter": "Lionel Auroux"
+  },
+  {
+    "title": "GraphQL in Python and Django",
+    "presenter": "Patrick Arminio"
+  },
+  {
+    "title": "Inside Rapid.Space: Open Hardware and Free Software = Ultra Low Cost High Performance Cloud",
+    "presenter": "Jean-Paul Smets"
+  },
+  {
+    "title": "Invitation to a New Kind of Database",
+    "presenter": "Sheer El Showk"
+  },
+  {
+    "title": "Python Micro-services with Kubernetes",
+    "presenter": "Michael Bright"
+  },
+  {
+    "title": "Python tooling for continuous deployment",
+    "presenter": "Arthur Lutz"
+  },
+  {
+    "title": "Serverless Python",
+    "presenter": "Michael Bright"
+  },
+  {
+    "title": "The SIMPLE Framework, simplifying complex container clusters",
+    "presenter": "Mayank Sharma"
+  },
+  {
+    "title": "Using type annotation in Python",
+    "presenter": "Philippe Fremy"
+  },
+  {
+    "title": "Version control in 2018: present and future",
+    "presenter": "Pierre-Yves David"
+  },
+  {
+    "title": "What is asyncio and when to use it, an example with WatchGhost",
+    "presenter": "Pierre Alexandre vuillard"
+  }
+]

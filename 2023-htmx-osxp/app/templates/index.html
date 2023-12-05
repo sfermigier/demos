@@ -1,0 +1,9 @@
+{% extends "_layout.html" %}
+
+{% block content %}
+  <p><a href="{{ url_for('search.search') }}">Search demo</a></p>
+  <p><a href="{{ url_for('search.search2') }}">Search demo (alt)</a></p>
+  <p><a href="{{ url_for('search-alt.search') }}">Search demo (alt 2)</a></p>
+  <p><a href="{{ url_for('infinite_scroll.index') }}">Infinite scroll</a></p>
+  <p><a href="{{ url_for('confirm.index') }}">Confirm (using hyperscript)</a></p>
+{% endblock content %}
